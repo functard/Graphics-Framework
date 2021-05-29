@@ -1,0 +1,42 @@
+﻿  Camera.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Engine.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(89,44): warning C4316: 'SDirectXSettings': object allocated on the heap may not be aligned 16
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(264,108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(264,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(265,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(265,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(266,107): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(266,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(274,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(274,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(275,113): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(275,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(276,109): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(276,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(281,104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(281,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(598,44): warning C4018: '>': signed/unsigned mismatch
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(877,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(887,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(887,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(906,135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(906,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(908,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(908,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(909,132): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(909,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(911,135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(911,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(917,135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(917,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(933,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(941,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(941,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(942,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(942,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(944,15): warning C4244: 'initializing': conversion from 'FN_DECIMAL' to 'int', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(2249,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Graphics\Engine.cpp(2249,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Graphics.vcxproj -> C:\Users\egeye\OneDrive\Masaüstü\GPBACKUP2\Graphics\Debug\Graphics.exe

@@ -1,0 +1,7 @@
+﻿  Engine.cpp
+C:\Users\Student\Desktop\GraphicsVorlesung\Graphics\Graphics\Engine.cpp(144,36): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\Student\Desktop\GraphicsVorlesung\Graphics\Graphics\Engine.cpp(145,65): warning C4244: '=': conversion from 'UINT64' to 'UINT', possible loss of data
+C:\Users\Student\Desktop\GraphicsVorlesung\Graphics\Graphics\Engine.cpp(264,45): warning C4244: '=': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\Student\Desktop\GraphicsVorlesung\Graphics\Graphics\Engine.cpp(449,52): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\Student\Desktop\GraphicsVorlesung\Graphics\Graphics\Engine.cpp(449,19): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  Graphics.vcxproj -> C:\Users\Student\Desktop\GraphicsVorlesung\Graphics\x64\Debug\Graphics.exe
